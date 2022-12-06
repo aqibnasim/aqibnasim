@@ -5,7 +5,11 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqibnasim&label=Profile%20views&color=0e75b6&style=flat" alt="aqibnasim" /> </p>
 
+- 🔭 I’m currently working on **automotive, agriculture, iot, home automation, electric vehicles**
+
 - 🌱 I’m currently learning **Embedded AI, Nvidia vision processors**
+
+- 👯 I’m looking to collaborate on **autosar, automotive driverless, robotics, UAV's**
 
 - 💬 Ask me about **C, IOT, Embedded Firmware, Hardware design, RTOS, BLE/LTE/LoraWAN, connectivity protocols [I2C, SPI, CAN, ModBUS, etherCAT]**
 
