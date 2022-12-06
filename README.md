@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aqib Malik</h1>
-<h3 align="center">Embedded systems enthusiast from Pakistan</h3>
+<h3 align="center">Embedded systems developer with 8+ years experience</h3>
 
 <img align="right" alt="coding" width="400" src="https://embeddedgurus.com/state-space/files/2013/04/qwin_ani.gif">
  
